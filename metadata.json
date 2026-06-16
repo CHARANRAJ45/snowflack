@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons Fluid Simulation",
+  "description": "An elegant, formal client-side application that renders custom medium-sized snowflake and balloon animations for 5-second intervals on user action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
