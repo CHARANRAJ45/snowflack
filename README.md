@@ -1,3 +1,7 @@
+
+https://ai.studio/apps/e2e913f3-fe97-491f-a594-7d43287d8043?fullscreenApplet=true
+
+
 <p align="center">
   <img src="https://via.placeholder.com/1000x300/0d1117/58a6ff?text=🤖+5-Day+AI+Agent+Intensive:+Vibecoding" alt="AI Agent Intensive Banner">
 </p>
